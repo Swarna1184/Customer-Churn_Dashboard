@@ -1,9 +1,10 @@
 streamlit
 pandas
 numpy
-joblib
 matplotlib
 seaborn
-scikit-learn
+joblib
 shap
 requests
+scikit-learn==1.6.1
+
